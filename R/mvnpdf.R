@@ -24,7 +24,7 @@ p <- 25
 x <- matrix(rnorm(n*p, mean=0, sd=1), ncol=n)
 
 print(vec_dens)
-print(x)
+print(n)
 print(p)
 
 print("modif")
