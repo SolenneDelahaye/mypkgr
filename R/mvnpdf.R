@@ -25,3 +25,5 @@ x <- matrix(rnorm(n*p, mean=0, sd=1), ncol=n)
 
 print(x)
 print(p)
+
+print("modif")
