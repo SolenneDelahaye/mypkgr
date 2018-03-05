@@ -24,6 +24,10 @@ p <- 25
 x <- matrix(rnorm(n*p, mean=0, sd=1), ncol=n)
 
 print(vec_dens)
+<<<<<<< HEAD
+=======
+print(n)
+>>>>>>> 7e36b20defb8d236772534b78af010b7fa6144a1
 print(p)
 <<<<<<< HEAD
 print(x)
