@@ -24,4 +24,4 @@ This is a basic example which shows you how to solve a common problem:
 ## basic example code
 ```
 
-[![Travis-CI Build Status](https://travis-ci.org/*prenomnom*/mypkgr.svg?branch=master)](https://travis-ci.org/*prenomnom*/mypkgr)
+[![Travis-CI Build Status](https://travis-ci.org/SolenneDelahaye/mypkgr.svg?branch=master)](https://travis-ci.org/SolenneDelahaye/mypkgr)

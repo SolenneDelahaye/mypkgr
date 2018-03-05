@@ -18,20 +18,3 @@ mvnpfd <- function(x, mean_vec =rep(0, nrow(x)), varcovM=diag(nrow(x)), log = TR
 
   return(list(x=x, vec_dens=vec_dens))
 }
-
-n <- 5
-p <- 25
-x <- matrix(rnorm(n*p, mean=0, sd=1), ncol=n)
-
-print(vec_dens)
-<<<<<<< HEAD
-=======
-print(n)
->>>>>>> 7e36b20defb8d236772534b78af010b7fa6144a1
-print(p)
-<<<<<<< HEAD
-print(x)
-=======
-
-print("modif")
->>>>>>> 2c5cf80a0a70ede1d95323e103086af26a72f41a
