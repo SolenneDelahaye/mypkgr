@@ -1,3 +1,14 @@
+#' mvnpfd
+#'
+#' @param x
+#' @param mean_vec
+#' @param varcovM
+#' @param log
+#'
+#' @return
+#' @export
+#'
+#' @examples
 mvnpfd <- function(x, mean_vec =rep(0, nrow(x)), varcovM=diag(nrow(x)), log = TRUE) {
   n <- ncol(x)
   p <- nrow(x)
